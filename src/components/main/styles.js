@@ -9,6 +9,7 @@ export const MainContainer = styled.main`
     flex-direction: row;
     gap: 48px;
     margin-top: 98px;
+    flex-wrap: wrap;
 }
 
 .textLogoConteiner{
@@ -33,8 +34,8 @@ export const MainContainer = styled.main`
     .textAbout{
         text-align: center;
         display: flex;
-        width: 800px;
-        /* height: 200px; */
+        width: 80vw;
+        height: 200px;
         flex-shrink: 0;
         color: white;
         font-size: 32px;

@@ -12,7 +12,7 @@ return(
             </div>
             <div className="apoio">
                 <h3 className="textApoio">NOS APOIE</h3>
-                <a href="https://github.com/Kingnora1/espacodasemocoes/settings/access" target="_blank"><button class="apoioButton"> Apoio</button></a>
+                <a href="https://github.com/Kingnora1/espacodasemocoes/settings/access" target="_blank"><button class="apoioButton" > Apoio</button></a>
             </div>
         </dir>
         

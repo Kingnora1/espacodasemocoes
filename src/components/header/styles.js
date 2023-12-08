@@ -16,7 +16,7 @@ export const HeaderContainer = styled.header`
     display: flex;
     flex-direction: row;
     gap: 320px;
-    width: auto;
+    width: 80vw;
     height: 680px;
     justify-content: center;
     align-items: center;
